@@ -54,7 +54,7 @@ endpoints:
     # Polling interval for checking assistant updates
     pollIntervalMs: 750
     # Timeout for assistant operations
-    timeoutMs: 30000 
+    timeoutMs: 30000
     # Should only be one or the other, either `supportedIds` or `excludedIds`
     # supportedIds: ["asst_supportedAssistantId1", "asst_supportedAssistantId2"]
     # excludedIds: ["asst_excludedAssistantId"]
