@@ -50,7 +50,7 @@ registration:
 endpoints:
   assistants:
     # Disable Assistants Builder Interface by setting to `true`
-    disableBuilder: true
+    disableBuilder: false
     # Polling interval for checking assistant updates
     pollIntervalMs: 750
     # Timeout for assistant operations
